@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gambling and Random Chance/1.0.0": {
+        "runtime": {
+          "Gambling and Random Chance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gambling and Random Chance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

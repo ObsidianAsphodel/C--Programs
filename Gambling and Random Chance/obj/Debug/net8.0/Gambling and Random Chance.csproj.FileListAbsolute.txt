@@ -1,0 +1,15 @@
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\bin\Debug\net8.0\Gambling and Random Chance.exe
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\bin\Debug\net8.0\Gambling and Random Chance.deps.json
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\bin\Debug\net8.0\Gambling and Random Chance.runtimeconfig.json
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\bin\Debug\net8.0\Gambling and Random Chance.dll
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\bin\Debug\net8.0\Gambling and Random Chance.pdb
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.csproj.AssemblyReference.cache
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.GeneratedMSBuildEditorConfig.editorconfig
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.AssemblyInfoInputs.cache
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.AssemblyInfo.cs
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.csproj.CoreCompileInputs.cache
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.dll
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\refint\Gambling and Random Chance.dll
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.pdb
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\Gambling and Random Chance.genruntimeconfig.cache
+i:\Art Folder\Programming Files\C# Programs\Gambling and Random Chance\obj\Debug\net8.0\ref\Gambling and Random Chance.dll
